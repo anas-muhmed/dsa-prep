@@ -18,4 +18,3 @@ dsa-prep/
     03_left_aligned.py
   README.md
 ```
-"# dsa-prep" 
